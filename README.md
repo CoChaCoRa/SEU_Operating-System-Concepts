@@ -1,8 +1,8 @@
 # SEU_Operating-System-Concepts
-东南大学《操作系统概念》课程作业
+东南大学《操作系统概念》课程作业代码
 
 
-# 作业一
+# 作业一（1）
 使用系统调用，用C或C++写一个程序，实现如下功能：从一个文件中读出数据，写入另一个文件中。
 要求：
 1.具有良好的交互性
@@ -11,8 +11,9 @@
 针对可能出现的各种错误，要有相应的错误提示输出，并作相应处理。
 在Windows和Linux操作系统上调试并运行
 
-# 作业二
-进程调度算法习题
+# 作业一（2）
+Linux内核代码分析
+增加系统调用
 
 # 作业三
 在Windows和Linux操作系统上，利用各自操作系统提供的Mutex和信号量机制（Win32 API或Pthreads），实现生产者/消费者问题。具体要求见”Operating System Concepts(Seventh Edition)” Chapter 6后的Project（P236-241）。
